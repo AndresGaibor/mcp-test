@@ -1,5 +1,5 @@
 import React from 'react';
-
+// cambio de correccion
 interface ButtonProps {
 	children: React.ReactNode;
 	onClick?: () => void;
